@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @aaronnicolas
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning JAVA
 <!-- 💞️ I’m looking to collaborate on ...
 
 --->
